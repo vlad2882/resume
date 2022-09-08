@@ -1,0 +1,14 @@
+<hhtp>
+
+    <head>
+
+    </head>
+
+    <body>
+        <nav>
+            <a href = "./menu.html"> Menu</a>
+            <a href = "./about_me.html"> Menu</a>
+        </nav>
+    </body>
+    
+</hhtp>
