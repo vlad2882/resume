@@ -6,9 +6,9 @@
 
     <body>
         <nav>
-            <a href = "./menu.html"> Menu</a>
+            <a href = "./reume.html"> Resume </a>
             <br>
-            <a href = "./about_me.html"> About Me</a>
+            <a href = "./menu.html"> Menu </a>
         </nav>
     </body>
 
